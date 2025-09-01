@@ -61,8 +61,8 @@ with open('./data/template.html', 'r', encoding='utf-8') as f:
 
 # Define your personal information
 context = {
-    'name': 'Peichun Li',
-    'github': 'https://github.com/mepeichun',
+    'name': 'Chengwang Ji',
+    'github': 'https://github.com/ChengwangJi/',
     'scholar': 'https://scholar.google.com.hk/citations?user=hC0FPWkAAAAJ&hl=en',
     'about_content': about_html,
     'publication_content': publication_html,
